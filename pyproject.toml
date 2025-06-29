@@ -10,6 +10,8 @@ dependencies = [
     "pydantic-ai",
     "langgraph",
     "python-dotenv",
+    "logfire",
+    "fastapi",
 ]
 
 requires-python = ">=3.9"
