@@ -12,7 +12,7 @@ dependencies = [
     "python-dotenv",
 ]
 
-requires-python = ">=3.8"
+requires-python = ">=3.9"
 readme = "README.md"
 license = {text = "MIT"}
 
